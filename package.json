@@ -1,0 +1,19 @@
+{
+  "name": "drossel-json-parse",
+  "version": "1.0.0",
+  "description": "Unnecessary JSON parser",
+  "author": "nanocloudx <nanocloudx@gmail.com>",
+  "homepage": "http://drossel.io/",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nanocloudx/drossel-json-parse.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON", "Object", "parse"
+  ]
+}
